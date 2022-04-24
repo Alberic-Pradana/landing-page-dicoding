@@ -118,7 +118,7 @@ figure.img-main img {
 }
 
 /* Main - Package */
-main.main-package {
+div.main-package {
   max-width: 1300px;
   padding-top: 10px;
   padding-bottom: 50px;
@@ -164,7 +164,7 @@ section.content p {
 /* End Main - Package */
 
 /* aside - profil */
-main.best {
+div.best {
   padding-top: 10px;
   padding-bottom: 10px;
   max-width: 1300px;
